@@ -18,4 +18,13 @@ return require('packer').startup(function(use)
 		-- or                            , branch = '0.1.x',
 		requires = { {'nvim-lua/plenary.nvim'} }
 	}
+
+
+	-- plugin: cyberdream.nvim
+	-- function: color scheme
+	-- src:https://github.com/scottmckendry/cyberdream.nvim
+	use { "scottmckendry/cyberdream.nvim" }
+	use ('nvim-treesitter/nvim-treesitter', {run = ':TSUpdate'})
+
 end)
+
