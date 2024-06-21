@@ -1,5 +1,5 @@
 #NOTES
-
+[https://www.youtube.com/watch?v=w7i4amO_zaE](most of the initial setup)
 directory structure:
 `~/.config/nvim`
 
