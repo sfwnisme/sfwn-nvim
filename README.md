@@ -2,3 +2,4 @@
 
 directory structure:
 `~/.config/nvim`
+
