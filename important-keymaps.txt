@@ -1,0 +1,10 @@
+harpoon
+space + a ... add file to harpoon menu list
+ctrl + e ... open harpoon menu 
+ctrl + h ... jump to file number 1
+ctrl + t ... jump to file number 2
+ctrl + n ... jump to file number 3
+ctrl + s ... jump to file number 4
+
+fugitive for git history
+space + g + s ... show git history
